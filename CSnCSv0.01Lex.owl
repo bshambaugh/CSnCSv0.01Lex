@@ -72,6 +72,7 @@ versionInfo: 3.5--><!--DUL-->
 <rdfs:label xml:lang="ro">Ececuţia sarcinilor de lucru</rdfs:label>
 <rdfs:comment xml:lang="ro">execuţia planului este situaţia care satisface planul.</rdfs:comment>
 </owl:Class>
+<!-- bshambaugh: A description of the class hierachy of elementary role is given here...even though the class description is not given -->
 <owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#ElementaryRole">
 <rdfs:subClassOf>
 <owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role">
@@ -738,6 +739,7 @@ While designs typically describe entities to be constructed, they can also be us
 <rdfs:label xml:lang="ro">Model</rdfs:label>
 <rdfs:comment xml:lang="ro">Descrierea unei situaţii, în termeni de structură şi funcţionalitate, care este aşteptată de la o entitate pentru un anumit motiv. Un model este de obicei însoţit de justificarea alegerii entităţii desemnate.</rdfs:comment>
 </owl:Class>
+<!-- bshambaugh: A description of the class hierachy is given even though the class description is elsewhere -->
 <owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#AgentRole">
 <rdfs:subClassOf>
 <owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Role">
@@ -1038,6 +1040,7 @@ A fim de resolver esta questão, é necessário criar uma sub-situação s' para
 <rdfs:label xml:lang="ro">Clasificare</rdfs:label>
 <rdfs:comment xml:lang="ro">Un tip de situaţie care permite includerea indexării temporale pentru relaţiile clasificate.</rdfs:comment>
 </owl:Class>
+<!-- bshambaugh: A description of the class hierarchy is given here even though the class description is given elsewhere -->
 <owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Human">
 <rdfs:subClassOf rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Person"/>
 <rdfs:label>Umano {it}</rdfs:label>
@@ -1576,6 +1579,7 @@ Imaterial (não-física) artefatos pode ser modelado como situações, como cole
 <rdfs:label xml:lang="ro">Interval de timp</rdfs:label>
 <rdfs:comment xml:lang="ro">Orice regiune dintr-un spaţiu dimensional care reprezintă timpul.</rdfs:comment>
 </owl:Class>
+<!-- bshambaugh: A description and class hierachy is given even though the namespace is defined elsewhere -->
 <owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#FunctionalArea">
 <rdfs:label xml:lang="it">Area funzionale</rdfs:label>
 <rdfs:subClassOf>
@@ -3114,6 +3118,7 @@ E.g. the collection of vintage saxophones is covered by the Concept 'Saxophone' 
 <rdfs:label xml:lang="ro">este acţiune inclusă în</rdfs:label></owl:ObjectProperty>
 <owl:ObjectProperty rdf:about="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#adopts">
 <owl:inverseOf>
+<!-- bshambaugh: the semantic relation is given but the namespace is defined elsewhere -->
 <owl:ObjectProperty rdf:about="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isAdoptedBy"></owl:ObjectProperty></owl:inverseOf>
 <rdfs:subPropertyOf rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#conceptualizes"/>
 <rdfs:label xml:lang="it">adotta</rdfs:label>
@@ -3449,6 +3454,7 @@ E.g., 'A postcondition of our Plan is to have things settled'.</rdfs:comment>
 <rdfs:label xml:lang="pl">relacja bezpośredniego następstwa konceptów</rdfs:label>
 <rdfs:label xml:lang="pt">é subordinado a</rdfs:label>
 <rdfs:label xml:lang="ro">este subordonat</rdfs:label></owl:ObjectProperty>
+<!-- bshambaugh: semantic relation given, but namespace defined elsewhere -->
 <owl:ObjectProperty rdf:about="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isAdoptedBy">
 <owl:inverseOf rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#adopts"/>
 <rdfs:subPropertyOf rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isConceptualizedBy"/>
@@ -3547,6 +3553,7 @@ E.g., 'claiming to find nuclear weapons in a foreign country is a precondition t
 <rdfs:label xml:lang="pl">relacja bezpośredniego poprzednictwa sytuacji</rdfs:label>
 <rdfs:label xml:lang="pt">é pré-condiçao de</rdfs:label>
 <rdfs:label xml:lang="ro">este condiţie precedentă a</rdfs:label></owl:ObjectProperty>
+<!-- bshambaugh: semantic relation given, but namespace defined elsewhere -->
 <owl:ObjectProperty rdf:about="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isFormallyInterpretedBy">
 <rdfs:domain rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#SocialObject"></rdfs:domain>
 <owl:inverseOf>
@@ -4324,6 +4331,7 @@ Volgens deze basale observaties zijn dul:Concept and Topic disjunct en een gepas
 <owl:allValuesFrom>
 <owl:Restriction>
 <owl:minCardinality rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</owl:minCardinality>
+<!-- bshambaugh: semantic relation given, but namespace defined elsewhere -->
 <owl:onProperty rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#isFormallyInterpretedBy"/></owl:Restriction></owl:allValuesFrom>
 <owl:onProperty rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#hasPart"/></owl:Restriction></rdfs:subClassOf>
 <rdfs:label xml:lang="it">Linguaggio formale</rdfs:label>
@@ -14702,6 +14710,7 @@ Een actie met tenminste twee agenten en een patient waarvan andere acties deel u
 <rdfs:label xml:lang="mt">PIKM - Protokoll ta' l-Internet dwar il-Kontroll tal-Messaġġi </rdfs:label>
 <rdfs:label xml:lang="mt">l-ICMP</rdfs:label>
 </owl:Class>
+<!-- bshambaugh: add other webbrowsers like Google Chrome, Safari, Edge, Firefox ... etc -->
 <owl:Class rdf:about="http://www.example.com/CSnCS#InternetExplorer">
 <rdfs:comment>Microsoft's Web browser.</rdfs:comment>
 <rdfs:comment>Hyper CSnCS: http://www.example.com/CSnCS#WebBrowser</rdfs:comment>
