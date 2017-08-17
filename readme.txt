@@ -1,6 +1,6 @@
 This is an attempt to give the orphaned ontology at http://watson.kmi.open.ac.uk/ontologies/LT4eL/CSnCSv0.01Lex.owl a home since http://www.loa-cnr.it/ no longer exists.
 
-The modified version is at: https://github.com/bshambaugh/CSnCSv0.01Lex/blob/master/CSnCSv0.01Lex.owl
+The modified version is at: https://raw.githubusercontent.com/bshambaugh/CSnCSv0.01Lex/master/CSnCSv0.01Lex.owl
 
 Contact for the original author: https://www.uu.nl/staff/PMonachesi .
 
