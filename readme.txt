@@ -2,7 +2,7 @@ This is an attempt to give the orphaned ontology at http://watson.kmi.open.ac.uk
 
 The modified version is at: https://raw.githubusercontent.com/bshambaugh/CSnCSv0.01Lex/master/CSnCSv0.01Lex.owl
 
-Contact for the original author: https://www.uu.nl/staff/PMonachesi .
+Contact for the original custodian: https://www.uu.nl/staff/PMonachesi .
 
 Fortunately, prefixes dul, io, and own have other locations at "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#" , "http://www.ontologydesignpatterns.org/ont/dul/IOLite.owl#" , and "http://www.ontologydesignpatterns.org/ont/own/own16.owl#" respectively.
 
