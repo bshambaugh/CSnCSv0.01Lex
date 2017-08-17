@@ -7,6 +7,7 @@ Fortunately, prefixes dul, io, and own have other locations at "http://www.ontol
 At least, this needs to be checked by comparing each line of dul.txt with DUL.owl, iolite.txt with IOLite.owl, and own.txt with own16.owl. 
 
 The missing classes or properties for DUL.owl and IOLite.owl are referenced in missing-dul.txt and missing-iolite.txt, respectively.
+
 I made additional files: 
 (1) Remove namespace with vim and save to no-namespace*
 (2) cat no-namespace-dul.txt | grep -o '".*"' | sort -n | uniq | sed 's/"//g' > uniq-no-namespace-dul.txt
