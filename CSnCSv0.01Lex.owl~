@@ -4608,7 +4608,6 @@ Um fonema não é necessariamente capaz de expressar um significado (descrição
 </owl:Class>
 <owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/dul/IOLite.owl#LinguisticFunction">
 <rdfs:label xml:lang="it">Funzione linguistica</rdfs:label>
-<!-- bshambaugh: This class is described in another ontology, but the semantics are here ... -->
 <rdfs:subClassOf rdf:resource="http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#ElementaryRole"></rdfs:subClassOf>
 <rdfs:comment>Any linguistic function that classifies words according to a LinguisticTheory. 
 This class includes parts of speech, thematic roles, phrase structure components, verbal aspects, etc. e.g. Subject, Object, Instrument, Stative, etc.
