@@ -1,0 +1,7 @@
+mappableTo
+isFormallyInterpretedBy
+isAdoptedBy
+Human
+FunctionalArea
+ElementaryRole
+AgentRole

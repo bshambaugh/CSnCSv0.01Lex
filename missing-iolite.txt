@@ -1,0 +1,6 @@
+Topic
+isTopicOf
+isSubTopicOf
+InterpersonalRole
+hasTopic
+hasSubTopic
