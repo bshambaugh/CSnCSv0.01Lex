@@ -1,0 +1,495 @@
+xmlns:own="http://www.ontologydesignpatterns.org/ont/own/own16.owl#"
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#USE__USAGE__UTILIZATION__UTILISATION__EMPLOYMENT__EXERCISE">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#REPETITION__REPEATING">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#CONTINUANCE__CONTINUATION">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#EXPERIMENT__EXPERIMENTATION_2">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#DETERMINATION__FINDING">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#DISCOVERY__FINDING__UNCOVERING">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#DISCOVERY__FIND__UNCOVERING">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#ABSTRACTION_1">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#RECIPROCALITY__RECIPROCITY">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#AREA__COUNTRY">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#ACT__HUMAN_ACTION__HUMAN_ACTIVITY">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#ACCOMPLISHMENT__ACHIEVEMENT">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#ACTION_1">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#HUMAN_RIGHT">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#RIGHT_2">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#KIND__SORT__FORM__VARIETY">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#CATEGORY">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#INDICATION">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#SIGNAL__SIGNALING__SIGN">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#GROUPING">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#ACTIVITY_1">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#SHOW_1">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#ENTERTAINMENT__AMUSEMENT">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#DECORATION__ORNAMENT__ORNAMENTATION">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#MOVEMENT__MOTION">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#TRANSMISSION_2">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#COMMUNICATION__COMMUNICATING">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#LEARNING__ACQUISITION">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#ASSIGNMENT__ASSIGNING">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#DISTRIBUTION_1">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#TOGGLE_SWITCH__TOGGLE__ON-OFF_SWITCH">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#AUTHENTICATION__CERTIFICATION">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#VALIDATION__VALIDATING__PROOF__PROVING">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#PART__PORTION__COMPONENT_PART__COMPONENT">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#RELATION_1">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#SIGNAL__SIGNALING__SIGN">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#RESOURCE_1">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#ASSET__PLUS">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#SYMBOL">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#SIGNAL__SIGNALING__SIGN">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#DESCRIPTION_2">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#SPEECH_ACT">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#STRUCTURE__ARCHITECTURE">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#CONSTITUTION__COMPOSITION__MAKEUP">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#MANAGEMENT__DIRECTION__MANAGING">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#SOCIAL_CONTROL">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#ORGANIZATION__ORGANISATION__ARRANGEMENT">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#ACTIVITY_1">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#LANGUAGE_UNIT__LINGUISTIC_UNIT">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#FORUM">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#GROUP_ACTION">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#ACT__HUMAN_ACTION__HUMAN_ACTIVITY">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#INSTRUMENT__TOOL">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#MEANS__AGENCY__WAY">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#SHARING">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#MUTUALITY__INTERDEPENDENCE__INTERDEPENDENCY">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#MODEL__THEORETICAL_ACCOUNT__FRAMEWORK">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#HYPOTHESIS__POSSIBILITY__THEORY">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#MISHAP__MISADVENTURE__MISCHANCE">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#MISFORTUNE__BAD_LUCK">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#SPACE_3">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#AREA__COUNTRY">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#PROFESSION_1">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#OCCUPATION__BUSINESS__LINE_OF_WORK__LINE">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#CHARACTER__GRAPHEME__GRAPHIC_SYMBOL">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#WRITTEN_SYMBOL__PRINTED_SYMBOL">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#CONTINUANCE__CONTINUATION">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#SHEET__PIECE_OF_PAPER__SHEET_OF_PAPER">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#PAPER_3">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#OPERATING_PROCEDURE">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#PROCEDURE__PROCESS">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#ACTIVITY_1">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#ACT__HUMAN_ACTION__HUMAN_ACTIVITY">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#REFERENCE_POINT__POINT_OF_REFERENCE__REFERENCE">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#INDICATOR_2">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#ACQUIRING__GETTING">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#DEED__FEAT__EFFORT__EXPLOIT">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#INFORMATION_MEASURE">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#INDEXING">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#CATEGORIZATION__CATEGORISATION__CLASSIFICATION">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#PHYSICAL_PHENOMENON">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#NUMBER_5">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#UNION_4">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#CONCEPT__CONCEPTION__CONSTRUCT">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#IDEA__THOUGHT">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#NAME_2">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#LANGUAGE_UNIT__LINGUISTIC_UNIT">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#WRITTEN_SYMBOL__PRINTED_SYMBOL">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#SYMBOL">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#HYPOTHESIS__POSSIBILITY__THEORY">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#ACTION_1">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#ACT__HUMAN_ACTION__HUMAN_ACTIVITY">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#MERCHANDISE__WARES__PRODUCT">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#MISFORTUNE__BAD_LUCK">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#TROUBLE_1">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#STYLE_2">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#KIND__SORT__FORM__VARIETY">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#SIGNATURE_2">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#NAME_2">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#CONFERENCE">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#LANGUAGE__LINGUISTIC_COMMUNICATION">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#CATEGORY">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#CONCEPT__CONCEPTION__CONSTRUCT">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#TERMINOLOGY__NOMENCLATURE__LANGUAGE">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#CLASSIFICATION_SYSTEM">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#ARRANGEMENT__ORGANIZATION__ORGANISATION__SYSTEM">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#FILE_SYSTEM__FILING_SYSTEM">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#CLASSIFICATION_SYSTEM">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#STATUS__POSITION">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#RANK_2">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#STATUS__POSITION">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#LABEL_1">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#DESCRIPTION_2">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#COMMUNICATION__COMMUNICATING">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#ACT__HUMAN_ACTION__HUMAN_ACTIVITY">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#ALIGNMENT_2">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#PLACEMENT__ARRANGEMENT">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#VERSION__VARIANT__VARIATION">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#TYPE_2">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#RULE__PRESCRIPT">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#DIRECTION__INSTRUCTION">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#TYPE_2">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#KIND__SORT__FORM__VARIETY">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#JOINING__CONNECTION__CONNEXION__CONNECTING">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#CHANGE_OF_INTEGRITY">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#MESSAGE__CONTENT__SUBJECT_MATTER__SUBSTANCE">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#DATABASE">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#INFORMATION__INFO">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#INDEX__INDEX_NUMBER__INDICANT__INDICATOR">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#FACT_3">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#CHANGE_1">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#DISCOVERY__FINDING__UNCOVERING">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#DEED__FEAT__EFFORT__EXPLOIT">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#TROUBLE_1">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#DISTRIBUTION_1">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#ACT__HUMAN_ACTION__HUMAN_ACTIVITY">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#MUTUALITY__INTERDEPENDENCE__INTERDEPENDENCY">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#RECIPROCALITY__RECIPROCITY">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#ABILITY">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#MEANS__AGENCY__WAY">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#IMPLEMENTATION__EFFECTUATION">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#TRANSACTION__DEALING__DEALINGS">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#GROUP_ACTION">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#MAGNITUDE_RELATION">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#RECORD_3">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#EVIDENCE_1">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#COMMENT__COMMENTARY">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#STATEMENT_1">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#POSITION__SPATIAL_RELATION">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#LEAF__FOLIO">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#SHEET__PIECE_OF_PAPER__SHEET_OF_PAPER">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#PROCEDURE__PROCESS">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#ACTIVITY_1">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#BOUNDARY__EDGE__BOUND">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#DIMENSION_1">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#CHANNEL__TRANSMISSION_CHANNEL">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#TRANSMISSION_2">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#RULE__FORMULA">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#STANDARD__CRITERION__MEASURE__TOUCHSTONE">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#REFERENCE_POINT__POINT_OF_REFERENCE__REFERENCE">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#ARRANGEMENT__ORGANIZATION__ORGANISATION__SYSTEM">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#TIME_INTERVAL__INTERVAL">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#SIZE_1">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#AID__ASSISTANCE__HELP">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#RESOURCE_1">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#ROOM_1">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#CONCENTRATION__DENSITY__DENSENESS__COMPACTNESS">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#SPACING__SPATIAL_ARRANGEMENT">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#IDEA__THOUGHT">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#CONTENT__COGNITIVE_CONTENT__MENTAL_OBJECT">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#SPACING__SPATIAL_ARRANGEMENT">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#PLACEMENT__ARRANGEMENT">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#RELATION_1">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#ABSTRACTION_1">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#CLASS__CATEGORY__FAMILY">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#ASSET__PLUS">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#QUALITY_1">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#PROCESSING_TIME">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#TIME_INTERVAL__INTERVAL">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#KEY_2">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#DEED__FEAT__EFFORT__EXPLOIT">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#ACCOMPLISHMENT__ACHIEVEMENT">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#STATEMENT_1">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#MESSAGE__CONTENT__SUBJECT_MATTER__SUBSTANCE">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#DESIGN__PATTERN__FIGURE">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#DECORATION__ORNAMENT__ORNAMENTATION">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#LAYOUT_2">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#DESIGN__PLAN">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#ORDER__ORDERING">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#ORGANIZATION__ORGANISATION__ARRANGEMENT">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#ENTERTAINMENT__AMUSEMENT">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#DIVERSION__RECREATION">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#VALIDATION__VALIDATING__PROOF__PROVING">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#DETERMINATION__FINDING">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#BOOK_3">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#EDUCATION__INSTRUCTION__TEACHING__PEDAGOGY__EDUCATIONAL_ACTIVITY">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#ACTIVITY_1">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#PAPER_3">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#MATERIAL__STUFF">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#DIRECTION__INSTRUCTION">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#MESSAGE__CONTENT__SUBJECT_MATTER__SUBSTANCE">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#CONNECTION__LINK__CONNECTEDNESS">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#UNION_4">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#DIVISION_1">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#SEPARATION_1">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#LAYOUT_1">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#ORDER__ORDERING">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#CONNECTION__CONNEXION__LINK">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#COPYING">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#REPETITION__REPEATING">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#DESIGN__PLAN">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#ARRANGEMENT__ORGANIZATION__ORGANISATION__SYSTEM">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#MATERIAL__STUFF">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#CATEGORIZATION__CATEGORISATION__CLASSIFICATION">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#GROUPING">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#SPEECH_ACT">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#ACT__HUMAN_ACTION__HUMAN_ACTIVITY">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#COMMERCIAL_ENTERPRISE__BUSINESS_ENTERPRISE__BUSINESS">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#COMMERCE__COMMERCIALISM__MERCANTILISM">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#INFORMATION__INFO">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#MESSAGE__CONTENT__SUBJECT_MATTER__SUBSTANCE">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#SET_4">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#INDICATOR_2">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#SIGNAL__SIGNALING__SIGN">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#FILE__DATA_FILE">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#RECORD_3">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#TYPE_4">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#CHARACTER__GRAPHEME__GRAPHIC_SYMBOL">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#COMMERCE__COMMERCIALISM__MERCANTILISM">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#TRANSACTION__DEALING__DEALINGS">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#QUOTATION__QUOTE">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#QUOTATION__QUOTE">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#RECEPTION__RECEIPT__RECEIVING">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#ACQUIRING__GETTING">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#SECRET__ARCANUM">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#INFORMATION__INFO">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#APPLICATION__PRACTICAL_APPLICATION">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#USE__USAGE__UTILIZATION__UTILISATION__EMPLOYMENT__EXERCISE">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#CONTENT__COGNITIVE_CONTENT__MENTAL_OBJECT">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#BENCHMARK">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#STANDARD__CRITERION__MEASURE__TOUCHSTONE">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#PUBLICATION__PUBLISHING">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#COMMERCIAL_ENTERPRISE__BUSINESS_ENTERPRISE__BUSINESS">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#QUALITY_1">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#IDENTIFICATION_2">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#EVIDENCE_1">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#IMPLEMENTATION__EFFECTUATION">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#DEED__FEAT__EFFORT__EXPLOIT">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#SEPARATION_1">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#CHANGE_OF_INTEGRITY">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#INTERCONNECTION__INTERCONNECTEDNESS">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#CONNECTION__LINK__CONNECTEDNESS">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#RIGHT_2">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#MESSAGE">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#CONDITION__STATUS">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#OCCUPATION__BUSINESS__LINE_OF_WORK__LINE">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#ACTIVITY_1">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#DISCOVERY__FIND__UNCOVERING">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#DEED__FEAT__EFFORT__EXPLOIT">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#PLACEMENT__ARRANGEMENT">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#POSITION__SPATIAL_RELATION">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#CONSTITUTION__COMPOSITION__MAKEUP">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#CHANGE_OF_INTEGRITY">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#CHANGE_1">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#PASSWORD__WATCHWORD__WORD__PAROLE__COUNTERSIGN">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#SECRET__ARCANUM">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#SOCIAL_CONTROL">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#GROUP_ACTION">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#UNIT_OF_MEASUREMENT__UNIT">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#AID__ASSIST__ASSISTANCE__HELP__HELPING">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#ACTIVITY_1">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#DIVERSION__RECREATION">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#ACTIVITY_1">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#SERVICE_5">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#AID__ASSIST__ASSISTANCE__HELP__HELPING">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#RATE_2">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#MAGNITUDE_RELATION">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#EVIDENCE_1">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#INDICATION">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#FACT_3">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#INFORMATION__INFO">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#CHARACTER__GRAPHEME__GRAPHIC_SYMBOL">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#ABILITY">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#TIME_INTERVAL__INTERVAL">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#IDENTIFICATION_2">
+<rdfs:comment>Equal CSnCS: http://www.ontologydesignpatterns.org/ont/own/own16.owl#ALGORITHM__ALGORITHMIC_RULE__ALGORITHMIC_PROGRAM</rdfs:comment>
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#RULE__FORMULA">
+<rdfs:comment>Hyper CSnCS: http://www.ontologydesignpatterns.org/ont/own/own16.owl#ALIGNMENT_2</rdfs:comment>
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#ALIGNMENT_2">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#ALIGNMENT_2">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#ASSIGNMENT__ASSIGNING">
+<rdfs:comment>http://www.ontologydesignpatterns.org/ont/own/own16.owl#ALPHA_TEST</rdfs:comment>
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#EXPERIMENT__EXPERIMENTATION_2">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#CHARACTER__GRAPHEME__GRAPHIC_SYMBOL">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#LANGUAGE__LINGUISTIC_COMMUNICATION">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#INSTRUMENT__TOOL">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#MODEL__THEORETICAL_ACCOUNT__FRAMEWORK">
+<rdfs:comment>Hyper CSnCS: http://www.ontologydesignpatterns.org/ont/own/own16.owl#KEY_2</rdfs:comment>
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#KEY_2">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#CONFERENCE">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#INFORMATION_MEASURE">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#BENCHMARK">
+<rdfs:comment>http://www.ontologydesignpatterns.org/ont/own/own16.owl#BETA_TEST</rdfs:comment>
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#EXPERIMENT__EXPERIMENTATION_2">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#UNIT_OF_MEASUREMENT__UNIT">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#RATE_2">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#CONCENTRATION__DENSITY__DENSENESS__COMPACTNESS">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#RATE_2">
+<rdfs:comment>Equal CSnCS: http://www.ontologydesignpatterns.org/ont/own/own16.owl#BLOCK_4</rdfs:comment>
+<rdfs:comment>Equal CSnCS: http://www.ontologydesignpatterns.org/ont/own/own16.owl#MARGIN__BORDER__PERIMETER</rdfs:comment>
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#BOUNDARY__EDGE__BOUND">
+<rdfs:comment>Hyper CSnCS: http://www.ontologydesignpatterns.org/ont/own/own16.owl#WRITTEN_SYMBOL__PRINTED_SYMBOL</rdfs:comment>
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#WRITTEN_SYMBOL__PRINTED_SYMBOL">
+<rdfs:comment>Hyper CSnCS: http://www.ontologydesignpatterns.org/ont/own/own16.owl#INTERCONNECTION__INTERCONNECTEDNESS</rdfs:comment>
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#INTERCONNECTION__INTERCONNECTEDNESS">
+<rdfs:comment>Hyper CSnCS: http://www.ontologydesignpatterns.org/ont/own/own16.owl#COMPUTER_MEMORY_UNIT</rdfs:comment>
+<rdfs:comment>Hyper CSnCS: http://www.ontologydesignpatterns.org/ont/own/own16.owl#KEY_2</rdfs:comment>
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#KEY_2">
+<rdfs:comment>Hyper CSnCS: http://www.ontologydesignpatterns.org/ont/own/own16.owl#CHANNEL__TRANSMISSION_CHANNEL</rdfs:comment>
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#CHANNEL__TRANSMISSION_CHANNEL">
+<rdfs:comment>Hyper CSnCS: http://www.ontologydesignpatterns.org/ont/own/own16.owl#KEY_2</rdfs:comment>
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#KEY_2">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#PROCESSING_TIME">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#ACTION_1">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#COMMENT__COMMENTARY">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#COMMENT__COMMENTARY">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#RULE__PRESCRIPT">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#STRUCTURE__ARCHITECTURE">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#FILE__DATA_FILE">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#UNIT_OF_MEASUREMENT__UNIT">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#MODEL__THEORETICAL_ACCOUNT__FRAMEWORK">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#JOINING__CONNECTION__CONNEXION__CONNECTING">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#LEARNING__ACQUISITION">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#LABEL_1">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#MISHAP__MISADVENTURE__MISCHANCE">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#ARRANGEMENT__ORGANIZATION__ORGANISATION__SYSTEM">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#CHARACTER__GRAPHEME__GRAPHIC_SYMBOL">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#RATE_2">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#TRANSMISSION_2">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#DATABASE">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#NUMBER_5">
+<rdfs:comment>Hyper CSnCS: http://www.ontologydesignpatterns.org/ont/own/own16.owl#KEY_2</rdfs:comment>
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#KEY_2">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#PUBLICATION__PUBLISHING">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#FORUM">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#SPACE_3">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#EDUCATION__INSTRUCTION__TEACHING__PEDAGOGY__EDUCATIONAL_ACTIVITY">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#MANAGEMENT__DIRECTION__MANAGING">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#NAME_2">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#CHARACTER__GRAPHEME__GRAPHIC_SYMBOL">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#RECEPTION__RECEIPT__RECEIVING">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#TOGGLE_SWITCH__TOGGLE__ON-OFF_SWITCH">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#TRANSMISSION_2">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#SIGNATURE_2">
+<rdfs:comment>Equal CSnCS: http://www.ontologydesignpatterns.org/ont/own/own16.owl#COMPONENT__CONSTITUENT__ELEMENT</rdfs:comment>
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#NUMBER_5">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#TYPE_4">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#SIZE_1">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#LAYOUT_1">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#STATEMENT_1">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#LAYOUT_2">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#CLASS__CATEGORY__FAMILY">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#DIMENSION_1">
+<rdfs:comment>Equal CSnCS: http://www.ontologydesignpatterns.org/ont/own/own16.owl#PHYSICAL_PROPERTY</rdfs:comment>
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#AID__ASSISTANCE__HELP">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#INDEXING">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#TERMINOLOGY__NOMENCLATURE__LANGUAGE">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#DIVISION_1">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#SYMBOL">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#INDEX__INDEX_NUMBER__INDICANT__INDICATOR">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#PART__PORTION__COMPONENT_PART__COMPONENT">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#CONDITION__STATUS">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#NUMBER_5">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#ACTION_1">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#ABILITY">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#LAYOUT_2">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#LEFT_2">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#LEFT_2">
+<rdfs:comment>Hyper CSnCS: http://www.ontologydesignpatterns.org/ont/own/own16.owl#VERSION__VARIANT__VARIATION</rdfs:comment>
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#VERSION__VARIANT__VARIATION">
+<rdfs:comment>Equal CSnCS: http://www.ontologydesignpatterns.org/ont/own/own16.owl#LIST__LISTING</rdfs:comment>
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#DATABASE">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#CHARACTER__GRAPHEME__GRAPHIC_SYMBOL">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#STANDARD__CRITERION__MEASURE__TOUCHSTONE">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#FORUM">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#BOOK_3">
+<rdfs:comment>http://www.ontologydesignpatterns.org/ont/own/own16.owl#MEMORY_CHIP</rdfs:comment>
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#LANGUAGE__LINGUISTIC_COMMUNICATION">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#SET_4">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#SET_4">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#COMMENT__COMMENTARY">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#LEAF__FOLIO">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#DIVISION_1">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#NUMBER_5">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#RANK_2">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#PASSWORD__WATCHWORD__WORD__PAROLE__COUNTERSIGN">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#IDENTIFICATION_2">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#SHOW_1">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#STATEMENT_1">
+<rdfs:comment>Hyper CSnCS: http://www.ontologydesignpatterns.org/ont/own/own16.owl#APPLICATION__APPLICATION_PROGRAM__APPLICATIONS_PROGRAMME</rdfs:comment>
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#PHYSICAL_PHENOMENON">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#TIME_INTERVAL__INTERVAL">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#DESIGN__PATTERN__FIGURE">
+<rdfs:comment>Hyper CSnCS: http://www.ontologydesignpatterns.org/ont/own/own16.owl#SECURITY_3</rdfs:comment>
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#MOVEMENT__MOTION">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#TIME_INTERVAL__INTERVAL">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#LEARNING__ACQUISITION">
+<rdfs:comment>Hyper CSnCS: http://www.ontologydesignpatterns.org/ont/own/own16.owl#APPLICATION__APPLICATION_PROGRAM__APPLICATIONS_PROGRAMME</rdfs:comment>
+<rdfs:comment>Hyper CSnCS: http://www.ontologydesignpatterns.org/ont/own/own16.owl#SIZE_1</rdfs:comment>
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#SIZE_1">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#CHARACTER__GRAPHEME__GRAPHIC_SYMBOL">
+<rdfs:comment>Hyper CSnCS: http://www.ontologydesignpatterns.org/ont/own/own16.owl#SPACING__SPATIAL_ARRANGEMENT</rdfs:comment>
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#SPACING__SPATIAL_ARRANGEMENT">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#CHARACTER__GRAPHEME__GRAPHIC_SYMBOL">
+<rdfs:comment>Hyper CSnCS: http://www.ontologydesignpatterns.org/ont/own/own16.owl#STYLE_2</rdfs:comment>
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#STYLE_2">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#DATABASE">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#CHARACTER__GRAPHEME__GRAPHIC_SYMBOL">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#CHARACTER__GRAPHEME__GRAPHIC_SYMBOL">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#DIVISION_1">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#OPERATING_PROCEDURE">
+<rdfs:comment>Equal CSnCS: http://www.ontologydesignpatterns.org/ont/own/own16.owl#TEMPLATE__TEMPLET__GUIDE</rdfs:comment>
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#SHARING">
+<rdfs:comment>Equal CSnCS: http://www.ontologydesignpatterns.org/ont/own/own16.owl#TRANSCRIPTION__WRITTEN_TEXT</rdfs:comment>
+<rdfs:comment>Equal CSnCS: http://www.ontologydesignpatterns.org/ont/own/own16.owl#TRANSLITERATION</rdfs:comment>
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#TYPE_4">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#CHARACTER__GRAPHEME__GRAPHIC_SYMBOL">
+<rdfs:comment>Hyper CSnCS: http://www.ontologydesignpatterns.org/ont/own/own16.owl#AUTHENTICATION__CERTIFICATION</rdfs:comment>
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#AUTHENTICATION__CERTIFICATION">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#NAME_2">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#CONFERENCE">
+<rdfs:comment>http://www.ontologydesignpatterns.org/ont/own/own16.owl#REPRESENTATION_3</rdfs:comment>
+<rdfs:comment>http://www.ontologydesignpatterns.org/ont/own/own16.owl#MESSAGE</rdfs:comment>
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#MESSAGE">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#LANGUAGE_UNIT__LINGUISTIC_UNIT">
+<rdfs:comment>http://www.ontologydesignpatterns.org/ont/own/own16.owl#WORKSPACE</rdfs:comment>
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#SPACE_3">
+<rdfs:comment>Hyper CSnCS: http://www.ontologydesignpatterns.org/ont/own/own16.owl#APPLICATION__APPLICATION_PROGRAM__APPLICATIONS_PROGRAMME</rdfs:comment>
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#CHARACTER__GRAPHEME__GRAPHIC_SYMBOL">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#ROOM_1">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#MACHINE_1">
+<owl:someValuesFrom rdf:resource="http://www.ontologydesignpatterns.org/ont/own/own16.owl#COPYING"/>
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#MACHINE_1">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#TRANSMISSION_2">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#FILE_SYSTEM__FILING_SYSTEM">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#CLASS__CATEGORY__FAMILY">
+<rdfs:comment>Equal CSnCS: http://www.ontologydesignpatterns.org/ont/own/own16.owl#RIGHT_TO_PRIVACY</rdfs:comment>
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#HUMAN_RIGHT">
+<rdfs:comment>Hyper CSnCS: http://www.ontologydesignpatterns.org/ont/own/own16.owl#CIRCUIT_BOARD__CIRCUIT_CARD__BOARD__CARD</rdfs:comment>
+<rdfs:comment>http://www.ontologydesignpatterns.org/ont/own/own16.owl#LOCAL_AREA_NETWORK__LAN</rdfs:comment>
+<rdfs:comment>Equal CSnCS: http://www.ontologydesignpatterns.org/ont/own/own16.owl#SEARCH__SEARCHING__HUNT__HUNTING</rdfs:comment>
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#ACTIVITY_1">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#ANSWER__REPLY__RESPONSE">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#STATEMENT_1">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#ANSWER__REPLY__RESPONSE">
+<rdfs:comment>Equal CSnCS: http://www.ontologydesignpatterns.org/ont/own/own16.owl#MEMORY__STORAGE__STORE__MEMORY_BOARD</rdfs:comment>
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#KEY_2">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#MACHINE_1">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#MACHINE_1">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#MACHINE_1">
+<rdfs:comment>http://www.ontologydesignpatterns.org/ont/own/own16.owl#ANALOG_COMPUTER__ANALOGUE_COMPUTER</rdfs:comment>
+<rdfs:comment>http://www.ontologydesignpatterns.org/ont/own/own16.owl#MULTIPROCESSOR</rdfs:comment>
+<rdfs:comment>http://www.ontologydesignpatterns.org/ont/own/own16.owl#NUMBER_CRUNCHER_1</rdfs:comment>
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#MERCHANDISE__WARES__PRODUCT">
+<rdfs:comment>Hyper CSnCS: http://www.ontologydesignpatterns.org/ont/own/own16.owl#APPLICATION__APPLICATION_PROGRAM__APPLICATIONS_PROGRAMME</rdfs:comment>
+<rdfs:comment>Hyper CSnCS: http://www.ontologydesignpatterns.org/ont/own/own16.owl#PROGRAM__PROGRAMME__COMPUTER_PROGRAM__COMPUTER_PROGRAMME</rdfs:comment>
+<rdfs:comment>Hyper CSnCS: http://www.ontologydesignpatterns.org/ont/own/own16.owl#WORD_PROCESSOR__WORD_PROCESSING_SYSTEM</rdfs:comment>
+<rdfs:comment>Equal: http://www.ontologydesignpatterns.org/ont/own/own16.owl#CODE__COMPUTER_CODE</rdfs:comment>
+<rdfs:comment>Hyper http://www.ontologydesignpatterns.org/ont/own/own16.owl#WINDOW_4</rdfs:comment>
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#MARKUP_1">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#DIRECTION__INSTRUCTION">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#MARKUP_1">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#MARKUP_1">
+<rdfs:comment>Hyper CSnCS: http://www.ontologydesignpatterns.org/ont/own/own16.owl#MARKUP_1</rdfs:comment>
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#APPLICATION__PRACTICAL_APPLICATION">
+<rdfs:comment>Hyper CSnCS: http://www.ontologydesignpatterns.org/ont/own/own16.owl#SERVICE_5</rdfs:comment>
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#SERVICE_5">
+<rdfs:comment>Equal CSnCS: http://www.ontologydesignpatterns.org/ont/own/own16.owl#FORMAT__FORMATTING__DATA_FORMAT__DATA_FORMATTING</rdfs:comment>
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#INFORMATION__INFO">
+<rdfs:comment>Hyper CSnCS: http://www.ontologydesignpatterns.org/ont/own/own16.owl#FORMAT__FORMATTING__DATA_FORMAT__DATA_FORMATTING</rdfs:comment>
+<rdfs:comment>Equal CSnCS: http://www.ontologydesignpatterns.org/ont/own/own16.owl#ACCESS__MEMORY_ACCESS</rdfs:comment>
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#CONNECTION__CONNEXION__LINK">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#SET_4">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#MESSAGE__CONTENT__SUBJECT_MATTER__SUBSTANCE">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#ABILITY">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#PUBLICATION__PUBLISHING">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#LEARNING__ACQUISITION">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#NAME_2">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#NAME_2">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#SET_4">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#TERMINOLOGY__NOMENCLATURE__LANGUAGE">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#COPYING">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#PUBLICATION__PUBLISHING">
+<owl:Class rdf:about="http://www.ontologydesignpatterns.org/ont/own/own16.owl#PUBLICATION__PUBLISHING">
